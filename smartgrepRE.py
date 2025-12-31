@@ -110,6 +110,12 @@ LEGAL_SIGNALS = [
 ]
 
 RE_SIGNALS = [
+     "crops", "crop", "harvest", "harvested",
+     "emblements", "severance", "severed",
+     "fructus industriales", "fructus naturales",
+     "annual crops", "growing crops",
+     "fixtures", "annexation", "attached",
+     "personal property", "real property",
     "agency", "fiduciary", "disclosure", "transfer disclosure statement",
     "tds", "seller", "buyer", "broker", "agent", "listing", "commission",
     "escrow", "title", "closing", "settlement", "contingency",
