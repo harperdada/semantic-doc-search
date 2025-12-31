@@ -347,6 +347,13 @@ Rules:
 - If the excerpts do NOT contain enough to answer, say exactly: "I don't know."
 - Cite sources inline using [1], [2], etc, matching the excerpt numbers.
 - Keep the answer concise, neutral, and specific to the documents.
+- Answer only what the question asks.
+- For classification questions (e.g., real vs personal property), do NOT introduce
+  unrelated legal frameworks (such as sale of goods, contracts, or scheduling for removal)
+  unless explicitly requested.
+- If multiple doctrines appear in the excerpts, prefer the doctrine that directly
+  answers the question.
+
 
 Excerpts:
 {context}
